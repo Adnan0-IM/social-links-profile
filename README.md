@@ -17,14 +17,14 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/Screenshot_20240731_123105.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Adnan0-IM/social-links-profile](https://github.com/Adnan0-IM/social-links-profile)
+- Live Site URL: [ https://adnan0-im.github.io/social-links-profile/]( https://adnan0-im.github.io/social-links-profile/)
 
 ## My process
 

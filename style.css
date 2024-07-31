@@ -67,14 +67,15 @@ p {
   font-weight: 400;
 }
 
+
 .col {
-  display: flex;
-  margin-bottom: 20px;
-  padding: 15px 100px;
-  background-color: hsl(0, 0%, 20%);
-  justify-content: center;
-  border-radius: 5px;
-  font-weight: 700;
+    display: flex;
+    margin-bottom: 20px;
+    padding: 15px 100px;
+    background-color: hsl(0, 0%, 20%);
+    justify-content: center;
+    border-radius: 5px;
+    font-weight: 700;
 }
 
 .col:hover {
@@ -84,3 +85,9 @@ p {
     
 }
 
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
